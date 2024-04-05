@@ -1,0 +1,18 @@
+.Services {
+    background-color: darkgrey;
+    text-align: center;
+}
+
+p{
+    color: teal;
+}
+
+.Service-design{
+    display: inline-block;
+    width: 20%;
+}
+
+i{
+    color: orange;
+    font-size: 40px;
+}
